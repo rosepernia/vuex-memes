@@ -1,6 +1,8 @@
 # vuex-memes
 
-<img align="center" width="800px" src="https://raw.githubusercontent.com/rosepernia/objetosperdidos/master/public/memes-app.png" />
+<img align="center" width="800px" src="https://raw.githubusercontent.com/rosepernia/vuex-memes/master/public/memes-app.png" />
+
+Aplicación con Vue3 usando Vuex para hacer una consulta a una Api de memes. Incluye select con función para seleccionar cantidad de memes que muestra.
 
 ## Project setup
 ```
