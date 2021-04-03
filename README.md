@@ -1,5 +1,7 @@
 # vuex-memes
 
+<img align="center" width="800px" src="https://raw.githubusercontent.com/rosepernia/objetosperdidos/master/public/memes-app.png" />
+
 ## Project setup
 ```
 npm install
